@@ -1,6 +1,8 @@
 Mars is the red planet
 It is the fourth planet in the solar system from the sun outwards
 
-Mars is unsuitable for a base for humans. Would Venus be more appropriate?!
+Mars is unsuitable for a base for humans. Would Venus [2] be more appropriate?!
 
 This was reconsidered. Please see venus.txt for the gory details!
+
+The story does not end there however!!!
